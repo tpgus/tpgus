@@ -7,6 +7,6 @@
 
 - 👍 I'm familiar with React.js
 
-- 👍 Also, familiar with using map-related libraries such as Google Maps, Open Layer, and Cesium.
+- 👍 Also, familiar with using map-related libraries such as Google Maps, OpenLayers, and Cesium.
 
 - 📫 How to reach me : **tpgus758@gmail.com**
