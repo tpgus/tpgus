@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **node.js**
 
-- 👍 I'm familiar with using map-related libraries such as Google Maps, Open Layer, and Cesium.
+- 👍 I'm familiar with React.js
+
+- 👍 Also, familiar with using map-related libraries such as Google Maps, Open Layer, and Cesium.
 
 - 📫 How to reach me : **tpgus758@gmail.com**
