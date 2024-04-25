@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mobilityone.](https://www.themobilityone.com/)
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **node.js**, **next.js**
 
 - 👍 I'm familiar with React.js
 
