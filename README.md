@@ -1,1 +1,1 @@
-[getCoords.com](https://www.getcoords.com)
+[getcoords.com](https://www.getcoords.com)
